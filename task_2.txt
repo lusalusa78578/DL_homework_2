@@ -1,4 +1,4 @@
-[\r\n]?[^A-Za-z0-9_.](o|O)[^\s@]*?[@][\w]{1,}[.][a-z]{1,}[^a-z]
+[^A-Za-z0-9_.](o|O)[^\s@]*?[@][\w]{1,}[.][a-z]{1,}[^a-z]
 34
 To: outlook.team@enron.com
 To: outlook.team@enron.com
